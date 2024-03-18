@@ -11,46 +11,46 @@ Book and member information stores in a file and is usable for later.
   Registering Page:
 </h3>
 <p align="center">
-  <img src="https://github.com/TheBigBaldHead/LibraryWPF/tree/main/pictures/register.png" width=50% height=50% title="Register Page">
+  <img src="https://github.com/AminFiroozi/LibraryWPF/tree/main/pictures/register.png" width=50% height=50% title="Register Page">
 </p>
 <h3>
   Admin Menu:
 </h3>
 <p align="center">
-  <img src="https://github.com/TheBigBaldHead/LibraryWPF/tree/main/pictures/admin_menu.png" width=50% height=50% title="Admin Menu">
+  <img src="https://github.com/AminFiroozi/LibraryWPF/tree/main/pictures/admin_menu.png" width=50% height=50% title="Admin Menu">
 </p>
 <h3>
   Member Menu:
 </h3>
 <p align="center">
-  <img src="https://github.com/TheBigBaldHead/LibraryWPF/tree/main/pictures/member_menu.png" width=50% height=50% title="Member Menu">
+  <img src="https://github.com/AminFiroozi/LibraryWPF/tree/main/pictures/member_menu.png" width=50% height=50% title="Member Menu">
 </p>
 <h3>
   Edit Profile:
 </h3>
 <p align="center">
-  <img src="https://github.com/TheBigBaldHead/LibraryWPF/tree/main/pictures/edit_profile.png" width=50% height=50% title="Edit Profile">
+  <img src="https://github.com/AminFiroozi/LibraryWPF/tree/main/pictures/edit_profile.png" width=50% height=50% title="Edit Profile">
 </p>
 <h3>
   Search Book:
 </h3>
 <p align="center">
-  <img src="https://github.com/TheBigBaldHead/LibraryWPF/tree/main/pictures/search_book.png" width=50% height=50% title="Search Book">
+  <img src="https://github.com/AminFiroozi/LibraryWPF/tree/main/pictures/search_book.png" width=50% height=50% title="Search Book">
 </p>
 <h3>
   Search Member:
 </h3>
 <p align="center">
-  <img src="https://github.com/TheBigBaldHead/LibraryWPF/tree/main/pictures/search_member.png" width=50% height=50% title="Search Member">
+  <img src="https://github.com/AminFiroozi/LibraryWPF/tree/main/pictures/search_member.png" width=50% height=50% title="Search Member">
 </p>
 <h3>
   Show Book Info:
 </h3>
 <p align="center">
-  <img src="https://github.com/TheBigBaldHead/LibraryWPF/tree/main/pictures/show_book_info.png" width=50% height=50% title="Show Book Info">
+  <img src="https://github.com/AminFiroozi/LibraryWPF/tree/main/pictures/show_book_info.png" width=50% height=50% title="Show Book Info">
 </p>
 <h3>
   Show Member Info:</h3>
 <p align="center">
-  <img src="https://github.com/TheBigBaldHead/LibraryWPF/tree/main/pictures/show_member_info.png" width=50% height=50% title="Show Member Info">
+  <img src="https://github.com/AminFiroozi/LibraryWPF/tree/main/pictures/show_member_info.png" width=50% height=50% title="Show Member Info">
 </p>
